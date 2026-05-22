@@ -1,0 +1,3575 @@
+{
+  "version": "1.0",
+  "items": [
+    {
+      "name": "Abby Rain Frame",
+      "description": "An elegant frame with rain effects inspired by Abby.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 1,
+      "assetFile": "abby-rain-frame.png",
+      "thumbFile": "thumbs/abby-rain-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Arena Breakout Infinite",
+      "description": "Tactical combat frame from Arena Breakout.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 2,
+      "assetFile": "arena-breakout-infinite.png",
+      "thumbFile": "thumbs/arena-breakout-infinite.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Art Deco Corners",
+      "description": "Stylized corners with a classic Art Deco design.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 3,
+      "assetFile": "art-deco-corners.png",
+      "thumbFile": "thumbs/art-deco-corners.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Atoma",
+      "description": "The energy of Atoma surrounding your avatar.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 4,
+      "assetFile": "atoma.png",
+      "thumbFile": "thumbs/atoma.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Atreides",
+      "description": "Heraldic frame inspired by House Atreides.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 5,
+      "assetFile": "atreides.png",
+      "thumbFile": "thumbs/atreides.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Autumn Alchemy Avatar Frame",
+      "description": "Autumnal magic and alchemy in this mystical frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 6,
+      "assetFile": "autumn-alchemy-avatar-frame.png",
+      "thumbFile": "thumbs/autumn-alchemy-avatar-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Avatar Frame Square",
+      "description": "Classic square frame for your profile.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 7,
+      "assetFile": "avatar-frame-square.png",
+      "thumbFile": "thumbs/avatar-frame-square.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Avatar Guy",
+      "description": "A touch of personality with the Avatar Guy style.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 8,
+      "assetFile": "avatar-guy.png",
+      "thumbFile": "thumbs/avatar-guy.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Award Winner",
+      "description": "A golden frame for those who achieve victory.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 9,
+      "assetFile": "award-winner.png",
+      "thumbFile": "thumbs/award-winner.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Bakery",
+      "description": "Sweet and cozy frame with a bakery theme.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 10,
+      "assetFile": "bakery.png",
+      "thumbFile": "thumbs/bakery.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Banana",
+      "description": "Fun banana frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 11,
+      "assetFile": "banana.png",
+      "thumbFile": "thumbs/banana.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Barbed Wire",
+      "description": "Barbed wire for a rugged and industrial look.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 12,
+      "assetFile": "barbed-wire.png",
+      "thumbFile": "thumbs/barbed-wire.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Barbwire Frame",
+      "description": "Frame variant with a thorn wire design.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 13,
+      "assetFile": "barbwire-frame.png",
+      "thumbFile": "thumbs/barbwire-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Bat",
+      "description": "Nocturnal frame with bat silhouettes.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 14,
+      "assetFile": "bat.png",
+      "thumbFile": "thumbs/bat.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Bath Together",
+      "description": "Relaxing bubbles and bath design.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 15,
+      "assetFile": "bath-together.png",
+      "thumbFile": "thumbs/bath-together.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Bathhouse Cleaning",
+      "description": "Cleaning theme in the bathhouse.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 16,
+      "assetFile": "bathhouse-cleaning.png",
+      "thumbFile": "thumbs/bathhouse-cleaning.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Bene Gesserit",
+      "description": "Mystical frame inspired by Dune.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 17,
+      "assetFile": "bene-gesserit.png",
+      "thumbFile": "thumbs/bene-gesserit.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Bewitching Frame",
+      "description": "An enchanting frame with a touch of witchcraft.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 18,
+      "assetFile": "bewitching-frame.png",
+      "thumbFile": "thumbs/bewitching-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Bi Frame",
+      "description": "Frame with Bisexual Pride colors.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 19,
+      "assetFile": "bi-frame.png",
+      "thumbFile": "thumbs/bi-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Bing Bong On The Beach",
+      "description": "Summery beach frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 20,
+      "assetFile": "bing-bong-on-the-beach.png",
+      "thumbFile": "thumbs/bing-bong-on-the-beach.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Bizarre Biolab Avatar Frame",
+      "description": "Strange science in this Biolab frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 21,
+      "assetFile": "bizarre-biolab-avatar-frame.png",
+      "thumbFile": "thumbs/bizarre-biolab-avatar-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Black Violet Frame",
+      "description": "Elegant combination of black and violet.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 22,
+      "assetFile": "black-violet-frame.png",
+      "thumbFile": "thumbs/black-violet-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Black White Frame",
+      "description": "Clean monochromatic style.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 23,
+      "assetFile": "black-white-frame.png",
+      "thumbFile": "thumbs/black-white-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Blinking Border",
+      "description": "Border with a dynamic blinking effect.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 24,
+      "assetFile": "blinking-border.png",
+      "thumbFile": "thumbs/blinking-border.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Blue Shield",
+      "description": "Heraldic blue shield frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 25,
+      "assetFile": "blue-shield.png",
+      "thumbFile": "thumbs/blue-shield.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Blue Wreath",
+      "description": "Ceremonial blue wreath.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 26,
+      "assetFile": "blue-wreath.png",
+      "thumbFile": "thumbs/blue-wreath.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Bubba Rocking Chair",
+      "description": "Relaxing Bubba frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 27,
+      "assetFile": "bubba-rocking-chair.png",
+      "thumbFile": "thumbs/bubba-rocking-chair.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Burning Wood",
+      "description": "Burning wood effect.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 28,
+      "assetFile": "burning-wood.png",
+      "thumbFile": "thumbs/burning-wood.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "C4",
+      "description": "Explosive C4 frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 29,
+      "assetFile": "c4.png",
+      "thumbFile": "thumbs/c4.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Candles",
+      "description": "Atmosphere of lit candles.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 30,
+      "assetFile": "candles.png",
+      "thumbFile": "thumbs/candles.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Cell",
+      "description": "Microscopic cellular design.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 31,
+      "assetFile": "cell.png",
+      "thumbFile": "thumbs/cell.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Chaya Dead",
+      "description": "Gothic Chaya frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 32,
+      "assetFile": "chaya-dead.png",
+      "thumbFile": "thumbs/chaya-dead.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Chayasleep",
+      "description": "Resting Chaya frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 33,
+      "assetFile": "chayasleep.png",
+      "thumbFile": "thumbs/chayasleep.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Chicken And Egg Couplets",
+      "description": "Traditional chicken frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 34,
+      "assetFile": "chicken-and-egg-couplets.png",
+      "thumbFile": "thumbs/chicken-and-egg-couplets.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Chicken",
+      "description": "Fun chicken frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 35,
+      "assetFile": "chicken.png",
+      "thumbFile": "thumbs/chicken.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Choam",
+      "description": "CHOAM corporation frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 36,
+      "assetFile": "choam.png",
+      "thumbFile": "thumbs/choam.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Conveyor Carry",
+      "description": "Industrial transport frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 37,
+      "assetFile": "conveyor-carry.png",
+      "thumbFile": "thumbs/conveyor-carry.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Cool Frame",
+      "description": "A simply cool frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 38,
+      "assetFile": "cool-frame.png",
+      "thumbFile": "thumbs/cool-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Cosmos",
+      "description": "Cosmos space frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 39,
+      "assetFile": "cosmos.png",
+      "thumbFile": "thumbs/cosmos.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Couriers Cap",
+      "description": "Classic courier cap.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 40,
+      "assetFile": "couriers-cap.png",
+      "thumbFile": "thumbs/couriers-cap.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Cozy Caravn Scribble",
+      "description": "Cozy caravan style.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 41,
+      "assetFile": "cozy-caravn-scribble.png",
+      "thumbFile": "thumbs/cozy-caravn-scribble.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Crate",
+      "description": "Industrial crate frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 42,
+      "assetFile": "crate.png",
+      "thumbFile": "thumbs/crate.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Crime Scene",
+      "description": "Restricted zone: Crime scene.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 43,
+      "assetFile": "crime-scene.png",
+      "thumbFile": "thumbs/crime-scene.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Cristales",
+      "description": "Brilliant crystal frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 44,
+      "assetFile": "cristales.png",
+      "thumbFile": "thumbs/cristales.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Crystal Frame",
+      "description": "Cut crystal frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 45,
+      "assetFile": "crystal-frame.png",
+      "thumbFile": "thumbs/crystal-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Cursed Green Flame",
+      "description": "Cursed green fire.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 46,
+      "assetFile": "cursed-green-flame.png",
+      "thumbFile": "thumbs/cursed-green-flame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Cursed Grove",
+      "description": "Dark cursed forest.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 47,
+      "assetFile": "cursed-grove.png",
+      "thumbFile": "thumbs/cursed-grove.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Cyber Core Frame",
+      "description": "Advanced cybernetic core.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 48,
+      "assetFile": "cyber-core-frame.png",
+      "thumbFile": "thumbs/cyber-core-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Death Howl Avatar Frame",
+      "description": "Ghostly death howl.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 49,
+      "assetFile": "death-howl-avatar-frame.png",
+      "thumbFile": "thumbs/death-howl-avatar-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Demon Grasp",
+      "description": "Demonic claws lurking.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 50,
+      "assetFile": "demon-grasp.png",
+      "thumbFile": "thumbs/demon-grasp.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Din Dark",
+      "description": "Dark industrial DIN style.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 51,
+      "assetFile": "din-dark.png",
+      "thumbFile": "thumbs/din-dark.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Din Light",
+      "description": "Light DIN style.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 52,
+      "assetFile": "din-light.png",
+      "thumbFile": "thumbs/din-light.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Din Orange",
+      "description": "High-visibility orange DIN style.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 53,
+      "assetFile": "din-orange.png",
+      "thumbFile": "thumbs/din-orange.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Dirty Frame",
+      "description": "Frame with a dirty effect.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 54,
+      "assetFile": "dirty-frame.png",
+      "thumbFile": "thumbs/dirty-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Discipline",
+      "description": "Sober Discipline frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 55,
+      "assetFile": "discipline.png",
+      "thumbFile": "thumbs/discipline.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Doodle Frame",
+      "description": "Hand-drawn Doodle style.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 56,
+      "assetFile": "doodle-frame.png",
+      "thumbFile": "thumbs/doodle-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Double Gradient",
+      "description": "Double color gradient.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 57,
+      "assetFile": "double-gradient.png",
+      "thumbFile": "thumbs/double-gradient.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Dragon Slayer",
+      "description": "Frame for dragon slayers.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 58,
+      "assetFile": "dragon-slayer.png",
+      "thumbFile": "thumbs/dragon-slayer.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Drill",
+      "description": "Mechanical Drill frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 59,
+      "assetFile": "drill.png",
+      "thumbFile": "thumbs/drill.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Drowning In Dosh",
+      "description": "Drowning in banknotes and money.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 60,
+      "assetFile": "drowning-in-dosh.png",
+      "thumbFile": "thumbs/drowning-in-dosh.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Dual Fun",
+      "description": "Dynamic Dual Fun frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 61,
+      "assetFile": "dual-fun.png",
+      "thumbFile": "thumbs/dual-fun.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Ellie Astronaut Frame",
+      "description": "Explore space with Ellie.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 62,
+      "assetFile": "ellie-astronaut-frame.png",
+      "thumbFile": "thumbs/ellie-astronaut-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Ellie Guitar Frame",
+      "description": "Ellie Guitar musical frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 63,
+      "assetFile": "ellie-guitar-frame.png",
+      "thumbFile": "thumbs/ellie-guitar-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Emerald Forest",
+      "description": "Enchanted emerald forest.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 64,
+      "assetFile": "emerald-forest.png",
+      "thumbFile": "thumbs/emerald-forest.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Energy Frame",
+      "description": "Frame charged with pure energy.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 65,
+      "assetFile": "energy-frame.png",
+      "thumbFile": "thumbs/energy-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Epic 2014 Editing",
+      "description": "Classic 2014 editing style.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 66,
+      "assetFile": "epic-2014-editing.png",
+      "thumbFile": "thumbs/epic-2014-editing.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Everdeepframebasic",
+      "description": "Basic Everdeep frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 67,
+      "assetFile": "everdeepframebasic.png",
+      "thumbFile": "thumbs/everdeepframebasic.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Exhibit A",
+      "description": "Exhibit A evidence frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 68,
+      "assetFile": "exhibit-a.png",
+      "thumbFile": "thumbs/exhibit-a.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Explosion",
+      "description": "Massive explosion frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 69,
+      "assetFile": "explosion.png",
+      "thumbFile": "thumbs/explosion.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "F-12 Glorious Wings",
+      "description": "F-12 glorious wings.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 70,
+      "assetFile": "f-12-glorious-wings.png",
+      "thumbFile": "thumbs/f-12-glorious-wings.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Faith",
+      "description": "Faith themed frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 71,
+      "assetFile": "faith.png",
+      "thumbFile": "thumbs/faith.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Farmer",
+      "description": "Hardworking farmer frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 72,
+      "assetFile": "farmer.png",
+      "thumbFile": "thumbs/farmer.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Field Of Eyes",
+      "description": "Unsettling Field of Eyes frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 73,
+      "assetFile": "field-of-eyes.png",
+      "thumbFile": "thumbs/field-of-eyes.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Fiery Halo",
+      "description": "Eternal fire halo.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 74,
+      "assetFile": "fiery-halo.png",
+      "thumbFile": "thumbs/fiery-halo.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Flower Bed",
+      "description": "Colorful flower bed.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 75,
+      "assetFile": "flower-bed.png",
+      "thumbFile": "thumbs/flower-bed.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Fog Of War",
+      "description": "Enveloping fog of war.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 76,
+      "assetFile": "fog-of-war.png",
+      "thumbFile": "thumbs/fog-of-war.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Forest Frame",
+      "description": "Deep forest frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 77,
+      "assetFile": "forest-frame.png",
+      "thumbFile": "thumbs/forest-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Frogs Hollow",
+      "description": "The frogs corner Frogs Hollow.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 78,
+      "assetFile": "frogs-hollow.png",
+      "thumbFile": "thumbs/frogs-hollow.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Fury",
+      "description": "Pure fury in this red frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 79,
+      "assetFile": "fury.png",
+      "thumbFile": "thumbs/fury.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Gassed Wood",
+      "description": "Gas-affected wood.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 80,
+      "assetFile": "gassed-wood.png",
+      "thumbFile": "thumbs/gassed-wood.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Gawr Gura",
+      "description": "Official Gawr Gura themed frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 81,
+      "assetFile": "gawr-gura.png",
+      "thumbFile": "thumbs/gawr-gura.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Ghostly Frame",
+      "description": "Spectral Ghostly frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 82,
+      "assetFile": "ghostly-frame.png",
+      "thumbFile": "thumbs/ghostly-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Gilded Art Nouveau",
+      "description": "Golden Art Nouveau style.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 83,
+      "assetFile": "gilded-art-nouveau.png",
+      "thumbFile": "thumbs/gilded-art-nouveau.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Glitched Frame",
+      "description": "Frame with digital Glitch error.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 84,
+      "assetFile": "glitched-frame.png",
+      "thumbFile": "thumbs/glitched-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Gold Frame Glaring",
+      "description": "Brilliant golden frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 85,
+      "assetFile": "gold-frame-glaring.png",
+      "thumbFile": "thumbs/gold-frame-glaring.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Golden Binding",
+      "description": "Golden Binding chains.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 86,
+      "assetFile": "golden-binding.png",
+      "thumbFile": "thumbs/golden-binding.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Green Floral Frame",
+      "description": "Green floral frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 87,
+      "assetFile": "green-floral-frame.png",
+      "thumbFile": "thumbs/green-floral-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Green Frame Sparkling",
+      "description": "Green frame with sparkles.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 88,
+      "assetFile": "green-frame-sparkling.png",
+      "thumbFile": "thumbs/green-frame-sparkling.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Halo Frame",
+      "description": "Frame with a mystical halo.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 90,
+      "assetFile": "halo-frame.png",
+      "thumbFile": "thumbs/halo-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Halo",
+      "description": "Pure Halo effect.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 91,
+      "assetFile": "halo.png",
+      "thumbFile": "thumbs/halo.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Harkonnen",
+      "description": "Industrial Harkonnen frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 92,
+      "assetFile": "harkonnen.png",
+      "thumbFile": "thumbs/harkonnen.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Heart Explosion",
+      "description": "Heart explosion.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 93,
+      "assetFile": "heart-explosion.png",
+      "thumbFile": "thumbs/heart-explosion.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Heart Frame",
+      "description": "Classic heart frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 94,
+      "assetFile": "heart-frame.png",
+      "thumbFile": "thumbs/heart-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Heart Gradient",
+      "description": "Romantic heart gradient.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 95,
+      "assetFile": "heart-gradient.png",
+      "thumbFile": "thumbs/heart-gradient.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Heart Neon Gradient",
+      "description": "Brilliant neon hearts.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 96,
+      "assetFile": "heart-neon-gradient.png",
+      "thumbFile": "thumbs/heart-neon-gradient.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Heart Of Malice",
+      "description": "Dark heart of malice.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 97,
+      "assetFile": "heart-of-malice.png",
+      "thumbFile": "thumbs/heart-of-malice.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Heaven",
+      "description": "Celestial Heaven frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 98,
+      "assetFile": "heaven.png",
+      "thumbFile": "thumbs/heaven.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Hell",
+      "description": "Infernal Hell frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 99,
+      "assetFile": "hell.png",
+      "thumbFile": "thumbs/hell.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Hellven",
+      "description": "Heaven and hell duality Hellven.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 100,
+      "assetFile": "hellven.png",
+      "thumbFile": "thumbs/hellven.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Hero Rolling",
+      "description": "Hero in action Hero Rolling.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 101,
+      "assetFile": "hero-rolling.png",
+      "thumbFile": "thumbs/hero-rolling.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Heroine Rolling",
+      "description": "Heroine in action Heroine Rolling.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 102,
+      "assetFile": "heroine-rolling.png",
+      "thumbFile": "thumbs/heroine-rolling.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Hiding Spot",
+      "description": "Secret Hiding Spot.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 103,
+      "assetFile": "hiding-spot.png",
+      "thumbFile": "thumbs/hiding-spot.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Honorary Holder",
+      "description": "Frame for honorary members.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 104,
+      "assetFile": "honorary-holder.png",
+      "thumbFile": "thumbs/honorary-holder.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Hook",
+      "description": "Industrial Hook.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 105,
+      "assetFile": "hook.png",
+      "thumbFile": "thumbs/hook.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "House Gnorp",
+      "description": "House Gnorp emblem.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 106,
+      "assetFile": "house-gnorp.png",
+      "thumbFile": "thumbs/house-gnorp.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Houshou Marine",
+      "description": "Houshou Marine themed frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 107,
+      "assetFile": "houshou-marine.png",
+      "thumbFile": "thumbs/houshou-marine.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Husk Frame",
+      "description": "Organic Husk frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 108,
+      "assetFile": "husk-frame.png",
+      "thumbFile": "thumbs/husk-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Im Nuts",
+      "description": "Fun Im Nuts frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 109,
+      "assetFile": "im-nuts.png",
+      "thumbFile": "thumbs/im-nuts.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Immersive Storylines Avatar Frame",
+      "description": "Immersive storylines on your avatar.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 110,
+      "assetFile": "immersive-storylines-avatar-frame.png",
+      "thumbFile": "thumbs/immersive-storylines-avatar-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Imp",
+      "description": "Little demon Imp frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 111,
+      "assetFile": "imp.png",
+      "thumbFile": "thumbs/imp.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Infernal Warlord",
+      "description": "Infernal warlord.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 112,
+      "assetFile": "infernal-warlord.png",
+      "thumbFile": "thumbs/infernal-warlord.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Inhuman Bondage Avatar Frame",
+      "description": "Chains and shadows Inhuman Bondage.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 113,
+      "assetFile": "inhuman-bondage-avatar-frame.png",
+      "thumbFile": "thumbs/inhuman-bondage-avatar-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Interface Frame",
+      "description": "Digital Interface Frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 114,
+      "assetFile": "interface-frame.png",
+      "thumbFile": "thumbs/interface-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Inugami Korone",
+      "description": "Official Inugami Korone frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 115,
+      "assetFile": "inugami-korone.png",
+      "thumbFile": "thumbs/inugami-korone.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Item",
+      "description": "Basic Item frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 116,
+      "assetFile": "item.png",
+      "thumbFile": "thumbs/item.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "K2 The Secrets Of The Coven Avatar Frame",
+      "description": "Secrets of the coven K2.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 117,
+      "assetFile": "k2-the-secrets-of-the-coven-avatar-frame.png",
+      "thumbFile": "thumbs/k2-the-secrets-of-the-coven-avatar-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "K3 Curse Of The Court Avatar Frame",
+      "description": "Curse of the court K3.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 118,
+      "assetFile": "k3-curse-of-the-court-avatar-frame.png",
+      "thumbFile": "thumbs/k3-curse-of-the-court-avatar-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Kiss Frame",
+      "description": "Frame with kisses Kiss Frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 119,
+      "assetFile": "kiss-frame.png",
+      "thumbFile": "thumbs/kiss-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Kiwi Frame",
+      "description": "Fresh and green Kiwi Frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 120,
+      "assetFile": "kiwi-frame.png",
+      "thumbFile": "thumbs/kiwi-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Klodovik",
+      "description": "Klodovik themed frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 121,
+      "assetFile": "klodovik.png",
+      "thumbFile": "thumbs/klodovik.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Knives Out",
+      "description": "Aggressive Knives Out frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 122,
+      "assetFile": "knives-out.png",
+      "thumbFile": "thumbs/knives-out.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Lest We Forget",
+      "description": "Commemorative Lest We Forget frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 123,
+      "assetFile": "lest-we-forget.png",
+      "thumbFile": "thumbs/lest-we-forget.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Light Blue Frame",
+      "description": "Soft light blue border.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 124,
+      "assetFile": "light-blue-frame.png",
+      "thumbFile": "thumbs/light-blue-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Light",
+      "description": "Pure light frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 125,
+      "assetFile": "light.png",
+      "thumbFile": "thumbs/light.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Lil Dude Frame",
+      "description": "Lil Dude frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 126,
+      "assetFile": "lil-dude-frame.png",
+      "thumbFile": "thumbs/lil-dude-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Lucky New Year Couplets",
+      "description": "Luck for the new year.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 127,
+      "assetFile": "lucky-new-year-couplets.png",
+      "thumbFile": "thumbs/lucky-new-year-couplets.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Malsas",
+      "description": "Malsas themed frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 128,
+      "assetFile": "malsas.png",
+      "thumbFile": "thumbs/malsas.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Manywhickensrun",
+      "description": "Chicks racing Manywhickensrun.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 129,
+      "assetFile": "manywhickensrun.png",
+      "thumbFile": "thumbs/manywhickensrun.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Mechanic Frame",
+      "description": "Industrial mechanical frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 130,
+      "assetFile": "mechanic-frame.png",
+      "thumbFile": "thumbs/mechanic-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Mentat",
+      "description": "Frame for Mentat calculators.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 131,
+      "assetFile": "mentat.png",
+      "thumbFile": "thumbs/mentat.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Miloslava",
+      "description": "Epic Miloslava themed frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 132,
+      "assetFile": "miloslava.png",
+      "thumbFile": "thumbs/miloslava.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Monster Lab Avatar Frame",
+      "description": "Monster lab on your avatar.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 133,
+      "assetFile": "monster-lab-avatar-frame.png",
+      "thumbFile": "thumbs/monster-lab-avatar-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Moody Frame",
+      "description": "Dark and melancholic atmosphere frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 134,
+      "assetFile": "moody-frame.png",
+      "thumbFile": "thumbs/moody-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Moonlight",
+      "description": "Soft glow of moonlight.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 135,
+      "assetFile": "moonlight.png",
+      "thumbFile": "thumbs/moonlight.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Mori Calliope",
+      "description": "Official Mori Calliope themed frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 136,
+      "assetFile": "mori-calliope.png",
+      "thumbFile": "thumbs/mori-calliope.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Moth Frame",
+      "description": "Nocturnal frame with moths.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 137,
+      "assetFile": "moth-frame.png",
+      "thumbFile": "thumbs/moth-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Multiplayer Fest Frame",
+      "description": "Celebrate multiplayer with this festive frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 138,
+      "assetFile": "multiplayer-fest-frame.png",
+      "thumbFile": "thumbs/multiplayer-fest-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Mysterious Frame",
+      "description": "Frame wrapped in mystery.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 139,
+      "assetFile": "mysterious-frame.png",
+      "thumbFile": "thumbs/mysterious-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Namo Frame",
+      "description": "Namo themed frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 140,
+      "assetFile": "namo-frame.png",
+      "thumbFile": "thumbs/namo-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Neon Classic",
+      "description": "Classic neon style with bright lights.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 141,
+      "assetFile": "neon-classic.png",
+      "thumbFile": "thumbs/neon-classic.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Neon Girl",
+      "description": "Vibrant neon girl.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 142,
+      "assetFile": "neon-girl.png",
+      "thumbFile": "thumbs/neon-girl.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Nighttime Fireflies",
+      "description": "Fireflies lighting up the night.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 143,
+      "assetFile": "nighttime-fireflies.png",
+      "thumbFile": "thumbs/nighttime-fireflies.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Ninja Dragon Fire",
+      "description": "Ninja with dragon flames.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 144,
+      "assetFile": "ninja-dragon-fire.png",
+      "thumbFile": "thumbs/ninja-dragon-fire.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Ninja Sparks",
+      "description": "Ninja sparks in combat.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 145,
+      "assetFile": "ninja-sparks.png",
+      "thumbFile": "thumbs/ninja-sparks.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Ninja Spiderfire",
+      "description": "Ninja spider on fire.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 146,
+      "assetFile": "ninja-spiderfire.png",
+      "thumbFile": "thumbs/ninja-spiderfire.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Ninja Spiderweb",
+      "description": "Stealthy ninja spiderweb.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 147,
+      "assetFile": "ninja-spiderweb.png",
+      "thumbFile": "thumbs/ninja-spiderweb.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Orange Ascii Frame",
+      "description": "ASCII frame in orange tones.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 148,
+      "assetFile": "orange-ascii-frame.png",
+      "thumbFile": "thumbs/orange-ascii-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Ornate Gold",
+      "description": "Ornate gold of supreme luxury.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 149,
+      "assetFile": "ornate-gold.png",
+      "thumbFile": "thumbs/ornate-gold.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Paint",
+      "description": "Artistic paint frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 150,
+      "assetFile": "paint.png",
+      "thumbFile": "thumbs/paint.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Paw Prints",
+      "description": "Tender paw prints.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 151,
+      "assetFile": "paw-prints.png",
+      "thumbFile": "thumbs/paw-prints.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Perfect Photo",
+      "description": "The perfect frame for your photo.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 152,
+      "assetFile": "perfect-photo.png",
+      "thumbFile": "thumbs/perfect-photo.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Pink Paws Frame",
+      "description": "Adorable pink paws.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 153,
+      "assetFile": "pink-paws-frame.png",
+      "thumbFile": "thumbs/pink-paws-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Pixel Glitch",
+      "description": "Pixel glitch failure.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 154,
+      "assetFile": "pixel-glitch.png",
+      "thumbFile": "thumbs/pixel-glitch.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Planetologist",
+      "description": "Frame of the planet scholar.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 155,
+      "assetFile": "planetologist.png",
+      "thumbFile": "thumbs/planetologist.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Polska Gurom Frame",
+      "description": "Commemorative Polska Gurom frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 156,
+      "assetFile": "polska-gurom-frame.png",
+      "thumbFile": "thumbs/polska-gurom-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Potato",
+      "description": "Humble potato frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 157,
+      "assetFile": "potato.png",
+      "thumbFile": "thumbs/potato.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Prince Frame",
+      "description": "Royal frame for a prince.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 158,
+      "assetFile": "prince-frame.png",
+      "thumbFile": "thumbs/prince-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Prism Of Perplexitude Avatar Profile Frame",
+      "description": "Perplexing prism of colors.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 159,
+      "assetFile": "prism-of-perplexitude-avatar-profile-frame.png",
+      "thumbFile": "thumbs/prism-of-perplexitude-avatar-profile-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Profile Frame Tl2",
+      "description": "Official TL2 profile frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 160,
+      "assetFile": "profile-frame-tl2.png",
+      "thumbFile": "thumbs/profile-frame-tl2.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Pulse Green",
+      "description": "Green energy pulse.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 161,
+      "assetFile": "pulse-green.png",
+      "thumbFile": "thumbs/pulse-green.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Pulse Red",
+      "description": "Red energy pulse.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 162,
+      "assetFile": "pulse-red.png",
+      "thumbFile": "thumbs/pulse-red.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Purple Floral Frame",
+      "description": "Floral frame in purple tones.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 163,
+      "assetFile": "purple-floral-frame.png",
+      "thumbFile": "thumbs/purple-floral-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Quakecon 2025 Logo",
+      "description": "Official QuakeCon 2025 logo.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 164,
+      "assetFile": "quakecon-2025-logo.png",
+      "thumbFile": "thumbs/quakecon-2025-logo.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Quakecon 2025",
+      "description": "Commemorative QuakeCon 2025 frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 165,
+      "assetFile": "quakecon-2025.png",
+      "thumbFile": "thumbs/quakecon-2025.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Racing Rim",
+      "description": "High-speed racing rim.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 166,
+      "assetFile": "racing-rim.png",
+      "thumbFile": "thumbs/racing-rim.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Radiant Edge",
+      "description": "Radiant edge of intense light.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 167,
+      "assetFile": "radiant-edge.png",
+      "thumbFile": "thumbs/radiant-edge.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Red Avadavat",
+      "description": "Red-plumaged avadavat bird.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 168,
+      "assetFile": "red-avadavat.png",
+      "thumbFile": "thumbs/red-avadavat.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Red Wreath",
+      "description": "Ceremonial red wreath.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 169,
+      "assetFile": "red-wreath.png",
+      "thumbFile": "thumbs/red-wreath.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Retro Car",
+      "description": "Classic retro car on your profile.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 170,
+      "assetFile": "retro-car.png",
+      "thumbFile": "thumbs/retro-car.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Retro Cocktail",
+      "description": "Retro cocktail from the golden years.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 171,
+      "assetFile": "retro-cocktail.png",
+      "thumbFile": "thumbs/retro-cocktail.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Retrowave",
+      "description": "Retrowave synthpop aesthetic.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 172,
+      "assetFile": "retrowave.png",
+      "thumbFile": "thumbs/retrowave.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Rock Bonk",
+      "description": "Fun rock bonk.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 173,
+      "assetFile": "rock-bonk.png",
+      "thumbFile": "thumbs/rock-bonk.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Rock On",
+      "description": "Rock On for metal lovers.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 174,
+      "assetFile": "rock-on.png",
+      "thumbFile": "thumbs/rock-on.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Roll",
+      "description": "Dynamic Roll frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 175,
+      "assetFile": "roll.png",
+      "thumbFile": "thumbs/roll.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Rose Ringed Parakeet",
+      "description": "Rose-ringed parakeet with brilliant plumage.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 176,
+      "assetFile": "rose-ringed-parakeet.png",
+      "thumbFile": "thumbs/rose-ringed-parakeet.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Royal Decree",
+      "description": "Royal decree with imperial seal.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 177,
+      "assetFile": "royal-decree.png",
+      "thumbFile": "thumbs/royal-decree.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Royalty",
+      "description": "Supreme royalty frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 178,
+      "assetFile": "royalty.png",
+      "thumbFile": "thumbs/royalty.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Runic Circle",
+      "description": "Runic circle of ancestral power.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 179,
+      "assetFile": "runic-circle.png",
+      "thumbFile": "thumbs/runic-circle.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Runner",
+      "description": "Frame for tireless runners.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 180,
+      "assetFile": "runner.png",
+      "thumbFile": "thumbs/runner.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Sand Frame",
+      "description": "Desert sand frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 181,
+      "assetFile": "sand-frame.png",
+      "thumbFile": "thumbs/sand-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Sand",
+      "description": "Warm sand texture.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 182,
+      "assetFile": "sand.png",
+      "thumbFile": "thumbs/sand.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Sani Frame",
+      "description": "Sani themed frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 183,
+      "assetFile": "sani-frame.png",
+      "thumbFile": "thumbs/sani-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Scanner",
+      "description": "High-tech digital scanner.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 184,
+      "assetFile": "scanner.png",
+      "thumbFile": "thumbs/scanner.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Screen Noise",
+      "description": "Analog screen noise.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 185,
+      "assetFile": "screen-noise.png",
+      "thumbFile": "thumbs/screen-noise.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Screen Shiny",
+      "description": "Brilliant Screen Shiny display.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 186,
+      "assetFile": "screen-shiny.png",
+      "thumbFile": "thumbs/screen-shiny.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Sheet Music Animated Loop",
+      "description": "Animated musical sheet music in a loop.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 187,
+      "assetFile": "sheet-music-animated-loop.png",
+      "thumbFile": "thumbs/sheet-music-animated-loop.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Shimmering Frame",
+      "description": "Frame with iridescent shimmer.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 188,
+      "assetFile": "shimmering-frame.png",
+      "thumbFile": "thumbs/shimmering-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Shores Of Darkness Avatar Frame",
+      "description": "Shores of eternal darkness.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 189,
+      "assetFile": "shores-of-darkness-avatar-frame.png",
+      "thumbFile": "thumbs/shores-of-darkness-avatar-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Sinister Frame",
+      "description": "Sinister frame with a dark atmosphere.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 190,
+      "assetFile": "sinister-frame.png",
+      "thumbFile": "thumbs/sinister-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Skull",
+      "description": "Iconic skull for profile.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 191,
+      "assetFile": "skull.png",
+      "thumbFile": "thumbs/skull.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Skyblue Frame",
+      "description": "Clear sky blue frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 192,
+      "assetFile": "skyblue-frame.png",
+      "thumbFile": "thumbs/skyblue-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Slime Tower Avatar Frame",
+      "description": "Bubbling slime tower.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 193,
+      "assetFile": "slime-tower-avatar-frame.png",
+      "thumbFile": "thumbs/slime-tower-avatar-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Solstice Reach Avatar Frame",
+      "description": "Frame of the reached solstice.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 194,
+      "assetFile": "solstice-reach-avatar-frame.png",
+      "thumbFile": "thumbs/solstice-reach-avatar-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Soy Maw",
+      "description": "Soy Maw frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 195,
+      "assetFile": "soy-maw.png",
+      "thumbFile": "thumbs/soy-maw.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Spice",
+      "description": "The spice of Arrakis flows.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 196,
+      "assetFile": "spice.png",
+      "thumbFile": "thumbs/spice.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Spider",
+      "description": "Spider lurking in its web.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 197,
+      "assetFile": "spider.png",
+      "thumbFile": "thumbs/spider.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Spore Plant",
+      "description": "Mysterious spore plant.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 198,
+      "assetFile": "spore-plant.png",
+      "thumbFile": "thumbs/spore-plant.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Spring Festival Firecrackers",
+      "description": "Spring festival firecrackers.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 199,
+      "assetFile": "spring-festival-firecrackers.png",
+      "thumbFile": "thumbs/spring-festival-firecrackers.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Stalking Prey",
+      "description": "Predator stalking its prey.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 200,
+      "assetFile": "stalking-prey.png",
+      "thumbFile": "thumbs/stalking-prey.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Status",
+      "description": "Social status frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 201,
+      "assetFile": "status.png",
+      "thumbFile": "thumbs/status.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Stellar Blade Frame",
+      "description": "Futuristic stellar combat blade.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 202,
+      "assetFile": "stellar-blade-frame.png",
+      "thumbFile": "thumbs/stellar-blade-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Stop Police",
+      "description": "Police stop sign frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 203,
+      "assetFile": "stop-police.png",
+      "thumbFile": "thumbs/stop-police.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Stormy Weather",
+      "description": "Electric storm on your profile.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 204,
+      "assetFile": "stormy-weather.png",
+      "thumbFile": "thumbs/stormy-weather.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Sweet Frame",
+      "description": "Sweet frame with sugar.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 205,
+      "assetFile": "sweet-frame.png",
+      "thumbFile": "thumbs/sweet-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Swirly Flowers",
+      "description": "Colorful swirling flowers.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 206,
+      "assetFile": "swirly-flowers.png",
+      "thumbFile": "thumbs/swirly-flowers.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Swordmaster",
+      "description": "Invincible swordmaster.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 207,
+      "assetFile": "swordmaster.png",
+      "thumbFile": "thumbs/swordmaster.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Taffy Frame",
+      "description": "Sweet taffy caramel frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 208,
+      "assetFile": "taffy-frame.png",
+      "thumbFile": "thumbs/taffy-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "The Alters Avatar Frame",
+      "description": "The Alters frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 209,
+      "assetFile": "the-alters-avatar-frame.png",
+      "thumbFile": "thumbs/the-alters-avatar-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "The Vende Hearth",
+      "description": "Warm home of The Vende.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 210,
+      "assetFile": "the-vende-hearth.png",
+      "thumbFile": "thumbs/the-vende-hearth.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Thorns",
+      "description": "Sharp and dangerous thorns.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 211,
+      "assetFile": "thorns.png",
+      "thumbFile": "thumbs/thorns.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Tools Of The Trade",
+      "description": "The tools of the trade.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 212,
+      "assetFile": "tools-of-the-trade.png",
+      "thumbFile": "thumbs/tools-of-the-trade.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Train",
+      "description": "Railway locomotive frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 213,
+      "assetFile": "train.png",
+      "thumbFile": "thumbs/train.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Triple Gradient",
+      "description": "Triple gradient of three tones.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 214,
+      "assetFile": "triple-gradient.png",
+      "thumbFile": "thumbs/triple-gradient.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Triumph",
+      "description": "Frame of total triumph.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 215,
+      "assetFile": "triumph.png",
+      "thumbFile": "thumbs/triumph.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Trooper",
+      "description": "Elite Trooper soldier.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 216,
+      "assetFile": "trooper.png",
+      "thumbFile": "thumbs/trooper.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Ultimate Fan",
+      "description": "Frame for the most loyal fan.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 217,
+      "assetFile": "ultimate-fan.png",
+      "thumbFile": "thumbs/ultimate-fan.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Ultimate Frame",
+      "description": "The ultimate frame, the most supreme.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 218,
+      "assetFile": "ultimate-frame.png",
+      "thumbFile": "thumbs/ultimate-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Upwards Rain Postmarked",
+      "description": "Upward rain with postmarks.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 219,
+      "assetFile": "upwards-rain-postmarked.png",
+      "thumbFile": "thumbs/upwards-rain-postmarked.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Usa Neon Girl",
+      "description": "USA-style neon girl.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 220,
+      "assetFile": "usa-neon-girl.png",
+      "thumbFile": "thumbs/usa-neon-girl.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Usa Retrowave",
+      "description": "American-style retrowave.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 221,
+      "assetFile": "usa-retrowave.png",
+      "thumbFile": "thumbs/usa-retrowave.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Vaporwave Paint",
+      "description": "Psychedelic vaporwave paint.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 222,
+      "assetFile": "vaporwave-paint.png",
+      "thumbFile": "thumbs/vaporwave-paint.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Vaporwave Temple",
+      "description": "Pastel and neon vaporwave temple.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 223,
+      "assetFile": "vaporwave-temple.png",
+      "thumbFile": "thumbs/vaporwave-temple.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Vaporwave Toilet Temple",
+      "description": "Absurd vaporwave toilet temple.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 224,
+      "assetFile": "vaporwave-toilet-temple.png",
+      "thumbFile": "thumbs/vaporwave-toilet-temple.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Veinte",
+      "description": "Commemorative Veinte frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 225,
+      "assetFile": "veinte.png",
+      "thumbFile": "thumbs/veinte.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Vinyl",
+      "description": "Retro musical vinyl record.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 226,
+      "assetFile": "vinyl.png",
+      "thumbFile": "thumbs/vinyl.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Wanted Frame",
+      "description": "Wanted frame, outlaw.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 227,
+      "assetFile": "wanted-frame.png",
+      "thumbFile": "thumbs/wanted-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Wheat",
+      "description": "Golden wheat ears.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 228,
+      "assetFile": "wheat.png",
+      "thumbFile": "thumbs/wheat.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Whickenrun",
+      "description": "Whickenrun chick race.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 229,
+      "assetFile": "whickenrun.png",
+      "thumbFile": "thumbs/whickenrun.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Whickensrun",
+      "description": "Chick race variant.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 230,
+      "assetFile": "whickensrun.png",
+      "thumbFile": "thumbs/whickensrun.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Whispers Of Lust Frame 1",
+      "description": "Seductive Whispers of Lust frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 231,
+      "assetFile": "whispers-of-lust-frame-1.png",
+      "thumbFile": "thumbs/whispers-of-lust-frame-1.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Whispers Of Lust Frame 2",
+      "description": "Second seductive variant.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 232,
+      "assetFile": "whispers-of-lust-frame-2.png",
+      "thumbFile": "thumbs/whispers-of-lust-frame-2.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "White Purple Frame",
+      "description": "Elegant combination of white and purple.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 233,
+      "assetFile": "white-purple-frame.png",
+      "thumbFile": "thumbs/white-purple-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Window",
+      "description": "Frame with a window effect.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 234,
+      "assetFile": "window.png",
+      "thumbFile": "thumbs/window.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Winter Workshop Avatar Frame",
+      "description": "Festive and snowy winter workshop.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 235,
+      "assetFile": "winter-workshop-avatar-frame.png",
+      "thumbFile": "thumbs/winter-workshop-avatar-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Wraithbound Sigil",
+      "description": "Seal of the bound wraith.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 236,
+      "assetFile": "wraithbound-sigil.png",
+      "thumbFile": "thumbs/wraithbound-sigil.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Yellow Frame",
+      "description": "Sunny yellow frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 237,
+      "assetFile": "yellow-frame.png",
+      "thumbFile": "thumbs/yellow-frame.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Zybe Dance",
+      "description": "Zybe dance on your profile.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 238,
+      "assetFile": "zybe-dance.png",
+      "thumbFile": "thumbs/zybe-dance.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    },
+    {
+      "name": "Zygnorp",
+      "description": "Zygnorp themed frame.",
+      "category": "COSMETIC",
+      "effectType": "PROFILE_FRAME",
+      "priceCoins": 1,
+      "type": "PERMANENT",
+      "active": true,
+      "order": 239,
+      "assetFile": "zygnorp.png",
+      "thumbFile": "thumbs/zygnorp.png",
+      "metadata": {
+        "shape": "SQUARED"
+      }
+    }
+  ]
+}

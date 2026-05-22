@@ -1,0 +1,11 @@
+{
+  "name": "@quelora/enterprise",
+  "version": "1.0.1",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "@quelora/common": "*",
+    "mongoose": "^8.0.0",
+    "ws": "^8.16.0" 
+  }
+}

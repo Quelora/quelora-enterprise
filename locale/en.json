@@ -1,0 +1,22 @@
+{
+  "gamification": {
+    "notifications": {
+      "LEVEL_UP": {
+        "title": "Level Up! 🚀",
+        "message": "Congratulations {name|bold}! You've reached the {levelName|bold} level."
+      },
+      "STREAK_BONUS": {
+        "title": "Streak on Fire! 🔥",
+        "message": "You've been active for {days|bold} days in a row. Here is a {points|bold} points bonus!"
+      },
+      "BADGE_EARNED": {
+        "title": "New Badge Unlocked! 🏆",
+        "message": "Awesome {name|bold}! You have earned the {badgeName|bold} badge."
+      },
+      "TEST_ADMIN_ACTION": {
+        "title": "Test Notification",
+        "message": "This is a test notification for debugging. Values → Days: {days|bold}, Points: {points|bold}."
+      }
+    }
+  }
+}

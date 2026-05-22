@@ -1,0 +1,22 @@
+{
+  "gamification": {
+    "notifications": {
+      "LEVEL_UP": {
+        "title": "¡Nivel alcanzado! 🚀",
+        "message": "¡Felicidades {name|bold}! Has llegado al nivel {levelName|bold}."
+      },
+      "STREAK_BONUS": {
+        "title": "¡Racha en llamas! 🔥",
+        "message": "Has estado activo durante {days|bold} días seguidos. ¡Aquí tienes un bono de {points|bold} puntos!"
+      },
+      "BADGE_EARNED": {
+        "title": "¡Nueva insignia desbloqueada! 🏆",
+        "message": "¡Genial {name|bold}! Has obtenido la insignia {badgeName|bold}."
+      },
+      "TEST_ADMIN_ACTION": {
+        "title": "Notificación de Prueba",
+        "message": "Esta es una notificación de prueba para depuración. Valores → Días: {days|bold}, Puntos: {points|bold}."
+      }
+    }
+  }
+}
